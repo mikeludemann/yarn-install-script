@@ -1,0 +1,14 @@
+jquery
+jquery-ui
+karma
+jasmine
+react
+react-dom
+redux
+bootstrap
+foundation
+babel
+babel-cli
+babel-core
+webpack
+debug
